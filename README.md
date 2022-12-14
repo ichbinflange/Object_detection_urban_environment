@@ -18,4 +18,4 @@ the trained model was saved and exported for inference therefore saved model was
 The folder results contains all results from training,evalaution and inference. The two pythong scripts eda.ipynb
 and Explore_augmentations.ipynb contain results for tasks described in the scripts
 
-
+![](results/animation.gif)
