@@ -15,7 +15,7 @@ training
 After training and evaluating, the train and evaluation events were too large for project submission hence were removed,
 the trained model was saved and exported for inference therefore saved model was used for inference
 
-The ffolder results contains all results from training,evalaution and inference. The two pythong scripts Exploratory Data Analysis.ipynb
+The folder results contains all results from training,evalaution and inference. The two pythong scripts eda.ipynb
 and Explore_augmentations.ipynb contain results for tasks described in the scripts
 
 
