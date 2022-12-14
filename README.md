@@ -26,9 +26,10 @@ training.
 After training and evaluating, the train and evaluation events were too large for project submission hence were removed,
 The training was done using 2000 steps and from the evaluation on the tensorboard it can be seen that the loss was slowly 
 converging and a little difference between the training and evaluation loss was observed.
-![Alt text](results/Screenshot(344).png?raw=true "Training loss")
-![Alt text](results/Screenshot(352).png?raw=true "Evaluation loss")
-![Alt text](results/Screenshot(353).png?raw=true "Evaluation")
+![Alt text](results/trainingloss.PNG?raw=true "Training loss")
+![Alt text](results/eval.PNG?raw=true "Evaluation loss")
+![Alt text](results/map.PNG?raw=true "Evaluation")
+![Alt text](results/other.PNG?raw=true "Evaluation")
 the trained model was saved and exported for inference therefore saved model was used for inference.
 The inference video is shown below
 
